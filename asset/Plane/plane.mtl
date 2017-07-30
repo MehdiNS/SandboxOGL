@@ -1,0 +1,13 @@
+newmtl mat1
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd albedo.png
+map_Ka metalness.jpg
+map_Ks T_Tile_White_R.tga
+map_bump T_Tile_White_N.tga
+bump T_Tile_White_N.tga

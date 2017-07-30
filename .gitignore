@@ -210,3 +210,8 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+# Visual Studio whines without these two
+# See https://stackoverflow.com/questions/34319008/git-issue-with-visual-studio-2015
+*.VC.opendb
+*.VC.db

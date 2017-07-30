@@ -1,0 +1,13 @@
+newmtl mat1
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Diffuse.jpg
+map_Ka Metallic.jpg
+map_Ks Roughness.jpg
+map_bump Normal.jpg
+bump Normal.jpg
