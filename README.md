@@ -20,6 +20,6 @@ List of features :
 - Scalable Ambient Obscurance
 - FXAA
 - Ongoing : Screen space reflection, temporal anti-aliasing
-- Deleted (but might still find remnants in the code) : Preetham sky, (botched) Bruneton sky, particles system...
+- Deleted (but might still find remnants in the code) : Preetham sky, (botched) Bruneton sky, particles system, depth of field...
 
 A few GIF [here](https://mehdins.wordpress.com/portfolio0/)
