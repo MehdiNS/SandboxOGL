@@ -2,6 +2,8 @@
 
 Modern OpenGL renderer used as a sandbox to implement papers, test various techniques… It started as a way to learn OpenGL a few months maybe years ago, and now it has become a quick prototyping tool so it's entirely possible (expected?) to find dead code, too many 'auto' uses, hardcoded values, or bad design choices, even though I tried to refactor
 
+A few GIF [here](https://mehdins.wordpress.com/portfolio0/). (Poor quality is due to video + GIF compression)
+
 List of features : 
 - Object loading using Assimp, stb. Math using GLM, Simple GUI using ImGui
 - Profiling CPU and GPU using RAII timers
@@ -21,5 +23,3 @@ List of features :
 - FXAA
 - Ongoing : Screen space reflection, temporal anti-aliasing
 - Deleted (but might still find remnants in the code) : Preetham sky, (botched) Bruneton sky, particles system, depth of field...
-
-A few GIF [here](https://mehdins.wordpress.com/portfolio0/)
